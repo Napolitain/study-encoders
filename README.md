@@ -32,7 +32,7 @@ Encoding 4K 24 FPS advertising low motion movie to 8 Mbps VBR.
 | original                |             | 960.0     |       |       |
 | x265 - 9700k 32GB       |             |           |       |       |
 | NVENC H.265 - RTX 2070  |             |           |       |       |
-| VideoToolbox H.265 - T2 |             | 161.6     | 41.53 |       |
+| VideoToolbox H.265 - T2 |             | 161.6     | 41.53 | 86.75 |
 | VideoToolbox H.265 - M1 |             |           |       |       |
 
 Encoding 4K 24 FPS advertising low motion movie to 14 Mbps VBR.
@@ -41,5 +41,5 @@ Encoding 4K 24 FPS advertising low motion movie to 14 Mbps VBR.
 | original                |             | 960.0     |       |       |
 | x265 - 9700k  32GB      |             |           |       |       |
 | NVENC H.265 - RTX 2070  |             |           |       |       |
-| VideoToolbox H.265 - T2 | 27.66       | 281.5     | 43.96 |       |
+| VideoToolbox H.265 - T2 | 27.66       | 281.5     | 43.96 | 91.90 |
 | VideoToolbox H.265 - M1 |             |           |       |       |
