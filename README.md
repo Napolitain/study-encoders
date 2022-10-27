@@ -7,6 +7,6 @@ GPU Information: NVIDIA GeForce RTX 2070 - 30.0.15.1179
 | movie.mkv (24 FPS) | speed (FPS) | size (MB) | PSNR | VMAF  |
 |--------------------|-------------|-----------|------|-------|
 | original           |             | 960       |      |       |
-| x265               | 4.60        | 235       |      |       |
+| x265               | 4.60        | 235       |      | 94.29 |
 | NVENC2 H.265       | 28.88       | 330       |      | 93.71 |
 | VideoToolbox H.265 |             |           |      |       |
