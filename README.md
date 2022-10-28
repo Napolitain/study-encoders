@@ -11,6 +11,7 @@ Encoding 4K 24 FPS advertising low motion movie to 3 Mbps VBR.
 | x264 - 9700k 32GB       | 17.96       | 57.6      | 40.43 |       |
 | x265 - 9700k 32GB       | 4.60        | 57.6      | 41.36 |       |
 | libvpx_vp9 - 9700k 32GB | 1.28        | 57.5      | 42.27 |       |
+| svtav1 - 9700k 32GB     | 4.??        | 57.4      | 42.85 |       |
 | NVENC H.265 - RTX 2070  | 28.88       | 60.3      | 41.24 |       |
 | VideoToolbox H.264 - T2 | 22.62       | 61.2      | 37.41 | 77.58 |
 | VideoToolbox H.265 - T2 | 24.19       | 60.8      | 38.98 | 77.58 |
